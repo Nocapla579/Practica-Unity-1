@@ -40,12 +40,12 @@ Material:
     m_Floats:
     - _AmountOfStrips: 3.15
     - _BlinkSpeed: 5
-    - _ColorIntensity: 34.7
+    - _ColorIntensity: 182.2
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Secondary_Amount_of_Strips: 12.62
     - _Secondary_Blink_Speed: 0
-    - _Secondary_Color_Intensity: 0.75
+    - _Secondary_Color_Intensity: 13.96
     - _Secondary_Strip_Size: 0.45
     - _Secondary_Strips_Horizontal: 1
     - _Secondary_Vertical_Speed: 0.1

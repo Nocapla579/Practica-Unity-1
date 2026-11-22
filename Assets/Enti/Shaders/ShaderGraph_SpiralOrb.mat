@@ -52,21 +52,30 @@ Material:
     m_Ints: []
     m_Floats:
     - _AmountOfStrips: 8.11
+    - _Amount_Of_Strips: 4
     - _BlinkSpeed: 2
+    - _Blink_Speed: 0
     - _ColorIntensity: 2.94
+    - _Color_Intensity: 3.81
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Secondary_Amount_of_Strips: 10.85
-    - _Secondary_Blink_Speed: 0
+    - _Secondary_Blink_Speed: 6.92
     - _Secondary_Color_Intensity: 1
-    - _Secondary_Strip_Size: 0.84
+    - _Secondary_Strip_Size: 0.86
     - _Secondary_Strips_Horizontal: 1
+    - _Secondary_Strips_Horizontal_Displacement: 1
     - _Secondary_Vertical_Speed: 0.07
     - _StripSize: 0.91
     - _StripsHorizontalDisplacement: 1
+    - _Strips_Horizontal_Displacement: 1
+    - _Strips_Size: 0.84
     - _VerticalSpeed: 0.27
+    - _Vertical_Speed: 0.12
     m_Colors:
     - _SecondStripColor: {r: 1, g: 0.24663067, b: 0.86522275, a: 1}
+    - _Second_Strip_Color: {r: 0.3176471, g: 0.70347375, b: 1, a: 1}
     - _StripsColor: {r: 1, g: 0.81578696, b: 0, a: 1}
+    - _Strips_Color: {r: 0.8618432, g: 0, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
